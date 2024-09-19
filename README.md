@@ -2,4 +2,4 @@
 
 ## _simple dwm clone for laptops_
 
-For support: paypal.me/H7moudiGamer
+For support: [PayPal](paypal.me/H7moudiGamer)
