@@ -1,4 +1,4 @@
-## dwmlap
+# dwmlap
 
 simple dwm clone for laptops
 
@@ -15,4 +15,4 @@ if like reading:
 man dwm
 ```
 
-# for donations: [PayPal](https://paypal.me/H7moudiGamer)
+### for donations: [PayPal](https://paypal.me/H7moudiGamer)
