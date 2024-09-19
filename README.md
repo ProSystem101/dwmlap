@@ -1,5 +1,5 @@
 # dwmlap
 
-## _simple dwm clone for laptops_
+simple dwm clone for laptops
 
 for donations: [PayPal](https://paypal.me/H7moudiGamer)
